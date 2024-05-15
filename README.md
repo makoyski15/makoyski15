@@ -1,4 +1,4 @@
-![Header](assets/header.png)
+![Header](header.png)
 
 # Hi there 👋, I'm [Your Name]
 
