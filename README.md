@@ -1,3 +1,5 @@
+![Header](assets/header.png)
+
 # Hi there 👋, I'm [Your Name]
 
 I'm a software developer with a passion for open-source projects and learning new technologies. Welcome to my GitHub profile!
@@ -24,3 +26,7 @@ An innovative project that leverages AI to enhance user experience.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
