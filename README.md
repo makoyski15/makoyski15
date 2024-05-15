@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**makoyski15/makoyski15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a passion for open-source projects and learning new technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, Kubernetes
+
+## Projects
+
+### [CoolProject](https://github.com/yourusername/coolproject)
+A cool project that does amazing things. It utilizes cutting-edge technology to solve real-world problems.
+
+### [AnotherProject](https://github.com/yourusername/anotherproject)
+An innovative project that leverages AI to enhance user experience.
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
