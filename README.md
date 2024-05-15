@@ -1,8 +1,8 @@
 ![Header](header.png)
 
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Mac!
 
-I'm a software developer with a passion for open-source projects and learning new technologies. Welcome to my GitHub profile!
+I'm a Front-End Web Developer with a passion for open-source projects and learning new technologies. Welcome to Profile!
 
 ## Skills and Technologies
 
